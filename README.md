@@ -1,6 +1,6 @@
 # Emotee
 
-Create Emotee from shell command.
+Create emotee from the command line.
 
 ## Installation
 
@@ -26,6 +26,7 @@ gem install emotee
 
 ```shell
 emotee
+#=> ╰|≧ー≦✿|n
 ```
 
 ## Development
