@@ -1,5 +1,7 @@
 # Emotee
 
+![Version](https://img.shields.io/gem/v/emotee.svg)
+
 Create emotee from the command line.
 
 ## Installation
