@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['caedes']
   spec.email         = ['laurentromain@gmail.com']
 
-  spec.summary       = 'Create emotee'
-  spec.description   = 'Create emotee'
+  spec.summary       = 'Create emotee!'
+  spec.description   = 'Create emotee from the command line.'
   spec.homepage      = 'https://github.com/caedes/emotee'
   spec.license       = 'MIT'
 
